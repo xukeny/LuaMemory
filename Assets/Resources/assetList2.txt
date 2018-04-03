@@ -1,0 +1,8 @@
+﻿Monster1029_liuermihou_attack1_xuanzhuan_Bip001 Prop1
+Monster1029_liuermihou_skill1_xuanzhuan_Bip001 Prop1
+Monster1029_liuermihou_skill2_xuanzhuan_Bip001 Prop1
+Monster1047_attack_1_juqi_Bip001 R Hand
+Monster1047_attack_2_juqi_Bip001 R Hand
+Monster1047_attack_3_juqi_Bip001 L Hand
+Monster1067_skill1_jineng_Bip001 R Hand
+Monster1083_juqi_Bip001 R Hand
